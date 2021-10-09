@@ -1,0 +1,16 @@
+5297 30 false
+4337 94 false
+3858 1027 false
+2898 1027 false
+2424 1027 false
+1962 1027 false
+1481 995 false
+985 633 false
+1506 1678 true
+2897 1628 false
+3352 1659 false
+3811 1659 false
+4283 2255 false
+4769 2579 false
+5250 2224 false
+6276 2221 false

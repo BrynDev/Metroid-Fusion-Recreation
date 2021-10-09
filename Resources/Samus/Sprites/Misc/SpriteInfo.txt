@@ -1,0 +1,2 @@
+Resources/Samus/Sprites/Misc/Dying.png,0.05f,3
+Resources/Samus/Sprites/Misc/Death.png,0.06f,17

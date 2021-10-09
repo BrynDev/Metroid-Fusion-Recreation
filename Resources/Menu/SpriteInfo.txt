@@ -1,0 +1,1 @@
+Resources/Menu/MenuCursor.png,0.22f,3

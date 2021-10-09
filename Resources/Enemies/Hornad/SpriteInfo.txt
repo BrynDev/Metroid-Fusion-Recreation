@@ -1,0 +1,5 @@
+Resources/Enemies/Hornad/Hornad_Idle.png,0.15f,4
+Resources/Enemies/Hornad/Hornad_Jump1.png,0.15f,3
+Resources/Enemies/Hornad/Hornad_Turning.png,0.18f,4
+Resources/Enemies/Hornad/Hornad_Shooting.png,0.25f,6
+Resources/Enemies/Hornad/Hornad_Death.png,0.11f,7

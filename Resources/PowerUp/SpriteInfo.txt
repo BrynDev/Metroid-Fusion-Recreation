@@ -1,0 +1,1 @@
+Resources/PowerUp/PowerUp_Missile.png,0.14f,3

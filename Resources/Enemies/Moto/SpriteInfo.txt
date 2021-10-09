@@ -1,0 +1,6 @@
+Resources/Enemies/Moto/Moto_Idle.png,0.15f,4
+Resources/Enemies/Moto/Moto_Walking.png,0.09f,6
+Resources/Enemies/Moto/Moto_Taunting.png, 0.1f,10
+Resources/Enemies/Moto/Moto_Charging.png,0.09f,6
+Resources/Enemies/Moto/Moto_Braking.png,0.11f,2
+Resources/Enemies/Moto/Moto_Death.png,0.11f,7

@@ -1,0 +1,2 @@
+Resources/Enemies/Geron/Geron_Idle.png,0.12f,4
+Resources/Enemies/Geron/Geron_Death.png,0.08f,4

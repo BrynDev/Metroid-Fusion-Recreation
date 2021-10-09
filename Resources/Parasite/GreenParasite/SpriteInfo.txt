@@ -1,0 +1,1 @@
+Resources/Parasite/GreenParasite/Parasite_Green.png,0.11f,6

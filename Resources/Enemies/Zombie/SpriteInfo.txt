@@ -1,0 +1,2 @@
+Resources/Enemies/Zombie/Zombie_Walk.png,0.28f,28
+Resources/Enemies/Zombie/Zombie_Death.png,0.16f,7

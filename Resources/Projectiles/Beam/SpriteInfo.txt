@@ -1,0 +1,6 @@
+Resources/Projectiles/Beam/Beam_Straight.png,0.20f,2
+Resources/Projectiles/Beam/Beam_Diag.png,0.20f,2
+Resources/Projectiles/Beam/Beam_Up.png,0.20f,2
+Resources/Projectiles/Beam/Impact_Level.png,0.05f,3
+Resources/Projectiles/Beam/Impact_Enemy.png,0.05f,4
+Resources/Projectiles/Impact_EnemyImmune.png,0.05f,4

@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Framework Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Game Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Game Files\Enemy">
+      <UniqueIdentifier>{dadf3d90-b2fa-433e-9b6c-fdd90353832f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Avatar">
+      <UniqueIdentifier>{8dcfa994-b1f1-4773-ade6-5f4f42535dd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Level">
+      <UniqueIdentifier>{3d17b1b9-c006-4c1f-a717-3bb4401aa132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Sprite">
+      <UniqueIdentifier>{e011dfbe-b9f1-49a0-a061-ffab2d18e81d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Camera">
+      <UniqueIdentifier>{d533bff5-1e77-48b4-b7cd-df3d2d92ff7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Game &amp; main">
+      <UniqueIdentifier>{47734c17-daf1-48bf-87fd-7a7ed52caf59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Door">
+      <UniqueIdentifier>{9fa8a0d5-6525-4709-b227-baeaf74e9a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Projectiles">
+      <UniqueIdentifier>{b3371b14-070e-444d-a76e-b7be4fa89742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\HUD">
+      <UniqueIdentifier>{55e0cd09-d008-4a89-afb0-4e344e666bd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Enemy\Zombie">
+      <UniqueIdentifier>{72d6392a-5b51-426f-80ac-cce13c20102d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Enemy\Hornad">
+      <UniqueIdentifier>{2a2feae8-3ba2-40b3-bc54-019d5c4e3f83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Enemy\Enemy">
+      <UniqueIdentifier>{8b938930-1f1e-4076-a28b-0b33793c2ebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Projectiles\Avatar Projectiles">
+      <UniqueIdentifier>{a433a336-4047-4297-9dd3-9cce110bbcc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Projectiles\Enemy Projectiles">
+      <UniqueIdentifier>{315cb5cf-c33d-4001-b076-f1959657fc16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Parasites">
+      <UniqueIdentifier>{ac460c9b-a0c4-4456-bc31-794df3af6d47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Enemy\Geron">
+      <UniqueIdentifier>{4eeb2298-eb83-4c77-9ccd-78bf31d09490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Enemy\Moto">
+      <UniqueIdentifier>{0bab1f8e-ac91-44ba-8ff0-705eaa49eaff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Managers">
+      <UniqueIdentifier>{2901b430-e9b9-44f5-ba35-6f062dce170a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Managers\Enemy Manager">
+      <UniqueIdentifier>{2425c664-45f3-4767-8646-a32bbf22139f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Managers\Manager">
+      <UniqueIdentifier>{7591cbb8-c065-40c0-b06b-b7fd870a27e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Managers\Projectile Manager">
+      <UniqueIdentifier>{fe20f981-0f3e-45eb-aec2-27324505107d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Projectiles\Projectile">
+      <UniqueIdentifier>{78135053-ca4a-4ae5-bdc1-2c11c8fa4048}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Parasites\GreenParasite">
+      <UniqueIdentifier>{2265a6d7-640d-4d5b-8733-fea1b757c647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Parasites\Parasite">
+      <UniqueIdentifier>{4a5e41d8-cdaf-4fce-8f8e-c39a62b60eaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Parasites\YellowParasite">
+      <UniqueIdentifier>{41b57411-ad21-4f85-b136-31bbf28da9df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Parasites\RedParasite">
+      <UniqueIdentifier>{add49d94-293b-4d8d-a1a0-d93ceeb58d2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Managers\PowerUpManager">
+      <UniqueIdentifier>{e7fbb583-b8b4-4b76-aadb-4e971d36446a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\PowerUps">
+      <UniqueIdentifier>{1b63d5ae-15f5-4aa6-af08-141ab4957a75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\PowerUps\MissilePowerUp">
+      <UniqueIdentifier>{ac14cc02-b32a-4c01-ad03-8930087025a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\PowerUps\PowerUp">
+      <UniqueIdentifier>{9bd7fd01-47eb-4a29-9da4-101ece4cff3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Sound">
+      <UniqueIdentifier>{6d4aa23d-39cd-4198-840f-393382e153bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Menu">
+      <UniqueIdentifier>{77dd76a3-4aaf-40e0-9c34-2caeebb5bd3f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix2x3.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGParser.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2f.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Avatar.h">
+      <Filter>Game Files\Avatar</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Game Files\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Game Files\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Game Files\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game Files\Game &amp; main</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Game Files\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Game Files\HUD</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Game Files\Enemy\Zombie</Filter>
+    </ClInclude>
+    <ClInclude Include="Hornad.h">
+      <Filter>Game Files\Enemy\Hornad</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Game Files\Enemy\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>Game Files\Managers\Enemy Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInfo.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorHandler.h">
+      <Filter>Game Files\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="AvatarProjectile.h">
+      <Filter>Game Files\Projectiles\Avatar Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Beam.h">
+      <Filter>Game Files\Projectiles\Avatar Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyProjectile.h">
+      <Filter>Game Files\Projectiles\Enemy Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Missile.h">
+      <Filter>Game Files\Projectiles\Avatar Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileManager.h">
+      <Filter>Game Files\Managers\Projectile Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="HornadShot.h">
+      <Filter>Game Files\Projectiles\Enemy Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Geron.h">
+      <Filter>Game Files\Enemy\Geron</Filter>
+    </ClInclude>
+    <ClInclude Include="Moto.h">
+      <Filter>Game Files\Enemy\Moto</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>Game Files\Managers\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Game Files\Projectiles\Projectile</Filter>
+    </ClInclude>
+    <ClInclude Include="GreenParasite.h">
+      <Filter>Game Files\Parasites\GreenParasite</Filter>
+    </ClInclude>
+    <ClInclude Include="Parasite.h">
+      <Filter>Game Files\Parasites\Parasite</Filter>
+    </ClInclude>
+    <ClInclude Include="YellowParasite.h">
+      <Filter>Game Files\Parasites\YellowParasite</Filter>
+    </ClInclude>
+    <ClInclude Include="RedParasite.h">
+      <Filter>Game Files\Parasites\RedParasite</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUpManager.h">
+      <Filter>Game Files\Managers\PowerUpManager</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Game Files\PowerUps\PowerUp</Filter>
+    </ClInclude>
+    <ClInclude Include="MissilePowerUp.h">
+      <Filter>Game Files\PowerUps\MissilePowerUp</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEffect.h">
+      <Filter>Game Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundStream.h">
+      <Filter>Game Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Game Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Game Files\Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Core.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix2x3.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structs.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGParser.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2f.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Avatar.cpp">
+      <Filter>Game Files\Avatar</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Game Files\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Game Files\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Game Files\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game Files\Game &amp; main</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Game Files\Game &amp; main</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Game Files\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Game Files\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Game Files\Enemy\Zombie</Filter>
+    </ClCompile>
+    <ClCompile Include="Hornad.cpp">
+      <Filter>Game Files\Enemy\Hornad</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Game Files\Enemy\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Game Files\Managers\Enemy Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorHandler.cpp">
+      <Filter>Game Files\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="AvatarProjectile.cpp">
+      <Filter>Game Files\Projectiles\Avatar Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Beam.cpp">
+      <Filter>Game Files\Projectiles\Avatar Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Missile.cpp">
+      <Filter>Game Files\Projectiles\Avatar Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileManager.cpp">
+      <Filter>Game Files\Managers\Projectile Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyProjectile.cpp">
+      <Filter>Game Files\Projectiles\Enemy Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="HornadShot.cpp">
+      <Filter>Game Files\Projectiles\Enemy Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Geron.cpp">
+      <Filter>Game Files\Enemy\Geron</Filter>
+    </ClCompile>
+    <ClCompile Include="Moto.cpp">
+      <Filter>Game Files\Enemy\Moto</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager.cpp">
+      <Filter>Game Files\Managers\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Game Files\Projectiles\Projectile</Filter>
+    </ClCompile>
+    <ClCompile Include="GreenParasite.cpp">
+      <Filter>Game Files\Parasites\GreenParasite</Filter>
+    </ClCompile>
+    <ClCompile Include="Parasite.cpp">
+      <Filter>Game Files\Parasites\Parasite</Filter>
+    </ClCompile>
+    <ClCompile Include="YellowParasite.cpp">
+      <Filter>Game Files\Parasites\YellowParasite</Filter>
+    </ClCompile>
+    <ClCompile Include="RedParasite.cpp">
+      <Filter>Game Files\Parasites\RedParasite</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUpManager.cpp">
+      <Filter>Game Files\Managers\PowerUpManager</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUp.cpp">
+      <Filter>Game Files\PowerUps\PowerUp</Filter>
+    </ClCompile>
+    <ClCompile Include="MissilePowerUp.cpp">
+      <Filter>Game Files\PowerUps\MissilePowerUp</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEffect.cpp">
+      <Filter>Game Files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundStream.cpp">
+      <Filter>Game Files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Game Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
+      <Filter>Game Files\Menu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Couvreur_Bryn_MetroidFusion.xlsx">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

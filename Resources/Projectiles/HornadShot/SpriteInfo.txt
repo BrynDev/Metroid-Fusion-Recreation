@@ -1,0 +1,2 @@
+Resources/Projectiles/HornadShot/Hornad_Projectile.png,0.20f,2
+Resources/Projectiles/HornadShot/Hornad_Projectile_Impact.png,0.10f,3

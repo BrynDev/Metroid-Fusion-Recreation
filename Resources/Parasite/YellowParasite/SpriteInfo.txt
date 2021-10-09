@@ -1,0 +1,1 @@
+Resources/Parasite/YellowParasite/Parasite_Yellow.png,0.09f,6
