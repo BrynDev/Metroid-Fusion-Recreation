@@ -15,3 +15,9 @@ For more information, visit my website: https://bryncouvreur.wixsite.com/portfol
 - **E** - Shoot
 - **R** - Toggle missile launcher (after unlocking missile launcher)
 - **H** - Restart (on game over screen)
+
+#Some notable functions:
+- [Enemy::DetectAvatar](Enemy.cpp#L153-L176)
+- [Avatar::HandleKeyPress](Avatar.cpp#L309-L395)
+- [Avatar::Shoot](Avatar.cpp#L464-L515)
+- [Enemy behavior examples](Moto.cpp#L215-L278)
